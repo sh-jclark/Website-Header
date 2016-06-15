@@ -15,7 +15,7 @@
   "license": "MIT",
   "moduleType": "globals",
   "main": [
-    "WebApplication1/src/WebApplication1/index.html"
+    "html/index.html"
   ],
   "ignore": [
     "/.*",
