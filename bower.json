@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
     "name": "websiteheader",
-=======
-    "name": "YourAwesomePackageName",
->>>>>>> origin/master
     "version": "0.0.1",
     "main": "html/index.html",
     "ignore": [
@@ -17,14 +13,5 @@
         "gruntfile.js",
         "package.json",
         "README.md"
-<<<<<<< HEAD
     ]
 }
-=======
-    ],
-    "dependencies": {
-        "jquery": ">=1.10.2",
-        "underscore": "~1.5.2"
-    }
-}
->>>>>>> origin/master
