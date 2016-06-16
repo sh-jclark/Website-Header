@@ -1,2 +1,2 @@
-7z a -r .\WebsiteHeader\WebsiteHeader.zip .\WebsiteHeader\WebsiteHeader
-echo ##myget[publishPackage path='.\WebsiteHeader\WebsiteHeader.zip' type='bower']
+7z a -r .\WebsiteHeader.zip .\html
+echo ##myget[publishPackage path='.\WebsiteHeader.zip' type='bower']
